@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Persistencia</string>
+    <string name="usuario">usuario</string>
+    <string name="senha">senha</string>
+    <string name="login">Login</string>
+    <string name="salvar_senha">salvar_senha</string>
+    <string name="usuario_incorreto">Usuario ou senha incorretos!</string>
+</resources>
